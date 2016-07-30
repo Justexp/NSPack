@@ -1,0 +1,25 @@
+'atom-text-editor':
+  'ctrl-alt-b': 'unset!'
+  'alt-b': 'unset!'
+  'ctrl-alt-f': 'unset!'
+
+'atom-workspace':
+    'ctrl-alt-f': 'unset!'
+
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-alt-f': 'unset!'
+
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-alt-f': 'unset!'
+
+'atom-text-editor':
+  'ctrl-alt-f': 'unset!'
+
+'.platform-win32, .platform-linux':
+  'ctrl-alt-f': 'unset!'
+
+'atom-text-editor':
+  'ctrl-alt-b': 'unset!'
+
+'atom-workspace atom-pane':
+  'ctrl-alt--': 'unset!'
